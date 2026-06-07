@@ -1,0 +1,4 @@
+.env
+.cache
+vibe_history.db
+__pycache__/
